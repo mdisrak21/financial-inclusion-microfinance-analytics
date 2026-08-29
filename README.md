@@ -2,9 +2,9 @@
 
 An interactive financial inclusion, microfinance access, savings, lending, and household vulnerability analytics dashboard built with Python and Streamlit.
 
-## 🚀 Live Demo
+🚀 Live Demo
 
-👉 Live demo will be added after Streamlit deployment.
+👉 https://financial-inclusion-microfinance-analytics.streamlit.app/
 
 ## 📸 Dashboard Preview
 
