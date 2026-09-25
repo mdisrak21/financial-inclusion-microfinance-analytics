@@ -165,4 +165,21 @@ District-level Comparison
 Interactive Dashboard
           ↓
 Decision Support & Analysis
+
 ```
+
+## ⚙️ Installation & Usage
+
+```bash
+git clone https://github.com/mdisrak21/financial-inclusion-microfinance-analytics.git
+cd financial-inclusion-microfinance-analytics
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 🔮 Future Improvements
+
+- Add additional financial inclusion indicators.
+- Add district-level geographic maps.
+- Add repayment risk analysis.
+- Add downloadable financial assessment reports.
